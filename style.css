@@ -9,9 +9,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: Arial, sans-serif;
   background:url(/bg.webp); 
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -48,6 +46,7 @@ input {
   margin-top: 0.5rem;
   border: 0.1rem solid #ccc;
   border-radius: 0.8rem;
+  outline: none;
 }
 
 button {
